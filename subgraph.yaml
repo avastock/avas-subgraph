@@ -4,7 +4,7 @@ schema:
 dataSources:
   - kind: ethereum/contract
     name: Trading
-    network: arbitrum-one
+    network: avalanche
     source:
       abi: Trading
       address: '0x16351D68572c5C27AB88C6FAE3C88159A456E517'
